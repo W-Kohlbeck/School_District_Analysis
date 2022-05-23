@@ -34,6 +34,11 @@ After considering the scores of the Thomas High School ninth graders to be inval
 
  ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+  #### Original Top Schools
+  <img width="1180" alt="Top_Schools_df" src="https://user-images.githubusercontent.com/102195085/169723747-9c8ac2c7-b856-43eb-8ef8-8c973a33a736.png">
+
+  #### Updated Top Schools
+  <img width="1180" alt="Updated_Top_Schools_df" src="https://user-images.githubusercontent.com/102195085/169723756-21b5dd72-c8b7-482c-822d-5a20c88d298b.png">
 
  ### 4. How does replacing the ninth-grade scores affect the math and reading scores?
     
