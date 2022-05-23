@@ -18,62 +18,62 @@ After considering the scores of the Thomas High School ninth graders to be inval
   ### 1. How is the district summary affected?
 
   #### Original Distract Summary
-      <img width="1180" alt="Distict_summary_df" src="https://user-images.githubusercontent.com/102195085/169721815-148e1910-13a9-43eb-9f1f-55b8febc1e7d.png">
+ <img width="1180" alt="Distict_summary_df" src="https://user-images.githubusercontent.com/102195085/169721815-148e1910-13a9-43eb-9f1f-55b8febc1e7d.png">
 
   #### Updated District Summary
-      <img width="1180" alt="Updated_Distict_summary_df" src="https://user-images.githubusercontent.com/102195085/169721820-0abfe6a4-d59e-49d4-a9b8-e4dbdaa06714.png">
+ <img width="1180" alt="Updated_Distict_summary_df" src="https://user-images.githubusercontent.com/102195085/169721820-0abfe6a4-d59e-49d4-a9b8-e4dbdaa06714.png">
 
   ### 2. How is the school summary affected?
   
   #### Original School Summary
-      <img width="1180" alt="Per_School_Summary_df" src="https://user-images.githubusercontent.com/102195085/169721865-969e743e-4aa8-4cb9-a302-66122c4cf349.png">
+ <img width="1180" alt="Per_School_Summary_df" src="https://user-images.githubusercontent.com/102195085/169721865-969e743e-4aa8-4cb9-a302-66122c4cf349.png">
 
   #### Updated School Summary
-      <img width="1180" alt="Updated_Per_School_Summary_df" src="https://user-images.githubusercontent.com/102195085/169721897-740bc7e7-f760-418e-8fc4-371ce826535b.png">
+ <img width="1180" alt="Updated_Per_School_Summary_df" src="https://user-images.githubusercontent.com/102195085/169721897-740bc7e7-f760-418e-8fc4-371ce826535b.png">
 
-  ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
-
-  ### 4. How does replacing the ninth-grade scores affect the following?
+ ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 
-  ### 5. Math and reading scores by grade:
+ ### 4. How does replacing the ninth-grade scores affect the following?
+
+
+ ### 5. Math and reading scores by grade:
     
-  #### Original Math Scores
-    <img width="440" alt="Math_Scores_df" src="https://user-images.githubusercontent.com/102195085/169721927-a5dac245-4922-4d19-829c-a7cbd26d169d.png">
+ #### Original Math Scores
+ <img width="440" alt="Math_Scores_df" src="https://user-images.githubusercontent.com/102195085/169721927-a5dac245-4922-4d19-829c-a7cbd26d169d.png">
     
-  #### Updated Math Scores
-    <img width="440" alt="Updated_Math_Scores_df" src="https://user-images.githubusercontent.com/102195085/169721965-a4416f3a-49ad-4eb3-a227-7571f4f3e8eb.png">
+ #### Updated Math Scores
+ <img width="440" alt="Updated_Math_Scores_df" src="https://user-images.githubusercontent.com/102195085/169721965-a4416f3a-49ad-4eb3-a227-7571f4f3e8eb.png">
 
-  #### Original Reading Scores
-    <img width="440" alt="Reading_Scores_df" src="https://user-images.githubusercontent.com/102195085/169722022-15901bed-210d-466e-8828-751d66307a4b.png">
+ #### Original Reading Scores
+ <img width="440" alt="Reading_Scores_df" src="https://user-images.githubusercontent.com/102195085/169722022-15901bed-210d-466e-8828-751d66307a4b.png">
 
-  #### Updated Reading Scores
-    <img width="440" alt="Updated_Reading_Scores_df" src="https://user-images.githubusercontent.com/102195085/169722026-599e6b61-e712-46d1-8129-b1fdc2c9c818.png">
+ #### Updated Reading Scores
+ <img width="440" alt="Updated_Reading_Scores_df" src="https://user-images.githubusercontent.com/102195085/169722026-599e6b61-e712-46d1-8129-b1fdc2c9c818.png">
 
-  ### 6. Scores by school spending:
+ ### 6. Scores by school spending:
   
-  #### Original Scores by School Spending
-    <img width="1180" alt="Scores_by_School_Spending_df" src="https://user-images.githubusercontent.com/102195085/169722064-9a8c7d07-58c0-4be4-958b-d053e66448d3.png">
+ #### Original Scores by School Spending
+ <img width="1180" alt="Scores_by_School_Spending_df" src="https://user-images.githubusercontent.com/102195085/169722064-9a8c7d07-58c0-4be4-958b-d053e66448d3.png">
 
-  #### Updated Scores by School Spending
-    <img width="1180" alt="Updated_Scores_by_School_Spending_df" src="https://user-images.githubusercontent.com/102195085/169722293-992e84cd-544a-470e-b04c-3499c36a26e3.png">
+ #### Updated Scores by School Spending
+ <img width="1180" alt="Updated_Scores_by_School_Spending_df" src="https://user-images.githubusercontent.com/102195085/169722293-992e84cd-544a-470e-b04c-3499c36a26e3.png">
 
 
-  ### 7. Scores by school size:
+ ### 7. Scores by school size:
     
-  #### Original Scores by School Size
-    <img width="1120" alt="Scores_by_School_Size_df" src="https://user-images.githubusercontent.com/102195085/169722109-38dc4859-1165-4b04-84b4-9a3ed44052ee.png">
+ #### Original Scores by School Size
+ <img width="1120" alt="Scores_by_School_Size_df" src="https://user-images.githubusercontent.com/102195085/169722109-38dc4859-1165-4b04-84b4-9a3ed44052ee.png">
 
-  #### Updated Scores by School Size
-    <img width="1120" alt="Updated_Scores_by_School_Size_df" src="https://user-images.githubusercontent.com/102195085/169722125-0844bb53-6fc2-4b24-af78-1b752bce3ba8.png">
+ #### Updated Scores by School Size
+ <img width="1120" alt="Updated_Scores_by_School_Size_df" src="https://user-images.githubusercontent.com/102195085/169722125-0844bb53-6fc2-4b24-af78-1b752bce3ba8.png">
 
-  ### 8. Scores by school type:
+ ### 8. Scores by school type:
     
-  #### Original Scores by School Type
-    <img width="1050" alt="Scores_by_School_Type_df" src="https://user-images.githubusercontent.com/102195085/169722143-07e4a148-e216-4c51-b6cc-6efaf3a6da97.png">
+ #### Original Scores by School Type
+ <img width="1050" alt="Scores_by_School_Type_df" src="https://user-images.githubusercontent.com/102195085/169722143-07e4a148-e216-4c51-b6cc-6efaf3a6da97.png">
 
-  #### Updated Scores by School Type
-    <img width="1050" alt="Updated_Scores_by_School_Type_df" src="https://user-images.githubusercontent.com/102195085/169722151-0f28ab6a-ce23-45b5-bf39-3a7f3baa1a46.png">
+ #### Updated Scores by School Type
+ <img width="1050" alt="Updated_Scores_by_School_Type_df" src="https://user-images.githubusercontent.com/102195085/169722151-0f28ab6a-ce23-45b5-bf39-3a7f3baa1a46.png">
 
 ## Summary
