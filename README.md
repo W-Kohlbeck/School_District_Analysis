@@ -29,7 +29,8 @@ After considering the scores of the Thomas High School ninth graders to be inval
   <img width="1180" alt="Per_School_Summary_df" src="https://user-images.githubusercontent.com/102195085/169721865-969e743e-4aa8-4cb9-a302-66122c4cf349.png">
 
   #### Updated School Summary
-  <img width="1180" alt="Updated_Per_School_Summary_df" src="https://user-images.githubusercontent.com/102195085/169721897-740bc7e7-f760-418e-8fc4-371ce826535b.png">
+  <img width="1179" alt="Updated_Per_School_Summary_df" src="https://user-images.githubusercontent.com/102195085/169723184-fbd90632-425f-4f8f-bd0c-e195fd4e723b.png">
+
 
  ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -74,3 +75,4 @@ After considering the scores of the Thomas High School ninth graders to be inval
   <img width="1050" alt="Updated_Scores_by_School_Type_df" src="https://user-images.githubusercontent.com/102195085/169722151-0f28ab6a-ce23-45b5-bf39-3a7f3baa1a46.png">
 
 ## Summary
+Overall dropping the math and reading scores of the ninth graders at Thomas High School had very little effect on the overaall scores. Between all of the different values that were measured there was less than a 1% change.
